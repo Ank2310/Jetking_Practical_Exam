@@ -1,0 +1,15 @@
+How to create NFT on Polygon Blockchain :
+
+1. Open OpenSea's website.
+2. Link Meta Mask polygon wallet with opensea website.
+3. Click on Create button.
+4. Then from drop down menu select My collections.
+5. Fill all details and description and also upload file.
+6. After that create NFT and verify captcha code and your NFT added to your collection.
+
+How to sell an NFT on Ethereum Blockchain :
+
+1. Select NFT and click on the Sell button then get a price page.
+2. Now, enter any fixed auction price then select royality bonus on the NFT.
+3. Then confirm your setting and put NFT on sale.
+4. We will get notification, if anyone decide to buy NFT.
